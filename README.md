@@ -1,3 +1,3 @@
 # TypeScript
 
-This is my typescript/javascript learning path projects.
+This is my typescript/javascript learning path lab exercises.
